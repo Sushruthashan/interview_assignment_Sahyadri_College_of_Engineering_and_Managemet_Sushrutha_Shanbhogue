@@ -1,6 +1,3 @@
-#include<stdio.h>
-#include<stdlib.h>
-
 int n, nums[50], temp; 
 
 void duplicate()
