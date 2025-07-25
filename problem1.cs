@@ -32,19 +32,3 @@ void duplicate()
         printf("false");
 
 }
-
-void main()
-{
-  printf("Enter array size:");
-  scanf("%d",&n);
-
-  printf("Enter array elements:");
-  
-  for(int i = 0; i < n; i++)
-  {
-    scanf("%d",&nums[i]);
-  }
-
-  duplicate();
-}
-    
